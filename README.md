@@ -1,4 +1,4 @@
-### Hi there me dicen Soge y soy un estudiante de informática
+### Hi there me dicen Soge y me gusta programar
 
 <!--
 **SogeNinja/SogeNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
